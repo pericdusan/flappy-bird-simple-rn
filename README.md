@@ -2,6 +2,13 @@
 
 A simple and fun Flappy Bird clone built using React Native and [Expo](https://expo.dev/). The game implements custom physics and game logic using pure React Native hooks (`useState` and `useEffect`) without any external game engine dependencies.
 
+## 📱 Preview
+
+<p align="center">
+   <img width="300" alt="image190" src="https://github.com/user-attachments/assets/eea71cf7-eae4-4219-a9d2-566f352659f0" />
+   <img width="300" alt="image189" src="https://github.com/user-attachments/assets/5752c1fe-d30f-416b-9c16-b70333fef853" />
+</p>
+
 ## 🌟 Features
 
 - **Custom Game Engine**: Built entirely with React Native state and timers (`setInterval`).
